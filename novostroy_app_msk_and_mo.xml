@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<torg_price date="2022-04-20 04:00:12">
+<shop>
+<shopname>ЦИАН</shopname>
+<company>ООО "Айриэлтор"</company>
+<url>https://www.cian.ru/</url>
+<currencies>
+  <currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+  <category parentId="0" id="1">Аренда</category>
+  <category parentId="0" id="2">Продажа</category>
+  <category parentId="0" id="3">Коммерческая аренда</category>
+  <category parentId="0" id="4">Коммерческая продажа</category>
+  <category parentId="0" id="5">Новостройки</category>
+  <category parentId="0" id="6">Посуточно</category>
+  <category parentId="0" id="7">ЖК</category>
+</categories>
+<offers>
+<offer id="1502">
+  <url>https://www.cian.ru/zhiloy-kompleks-bashnya-federaciya-moskva-1502/</url>
+  <price>2600000000</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/1502.c5e7816b2e1a65b842c5f0ee45686e1d.988463667.jpg</picture>
+  <typePrefix>Москва, Пресненская набережная, 12</typePrefix>
+  <vendor>Башня Федерация</vendor>
+  <model>Международная</model>
+  <name>ЖК «Башня Федерация»</name>
+  <description>Какая она, жизнь в самом высоком небоскребе Москвы? Представьте свой дом на высоте 250 метров над го...</description>
+  <latitude>55.7497261769861</latitude>
+  <longitude>37.5375508320152</longitude>
+  <cpl>1</cpl>
+  <msk_district>ЦАО</msk_district>
+  <newbuilding_class>премиум-класс</newbuilding_class>
+  <liquid>1</liquid>
+  <ios_url>cian://zhiloy-kompleks-bashnya-federaciya-moskva-1502/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-bashnya-federaciya-moskva-1502/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="5430">
+  <url>https://www.cian.ru/zhiloy-kompleks-lica-moskva-5430/</url>
+  <price>28749998</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/5430.7e129bddffe7350f570826966bb9fb79.656501365.jpg</picture>
+  <typePrefix>Москва, улица Авиаконструктора Сухого, 2к2</typePrefix>
+  <vendor>Capital Group</vendor>
+  <model>ЦСКА</model>
+  <name>ЖК «ЛИЦА»</name>
+  <description>Комплекс расположен в Хорошевском районе САО по адресу: улица Авиаконструктора Сухого, 2к2, на окраи...</description>
+  <latitude>55.7863795646717</latitude>
+  <longitude>37.5423710922318</longitude>
+  <cpl>1</cpl>
+  <msk_district>САО</msk_district>
+  <newbuilding_class>бизнес-класс</newbuilding_class>
+  <liquid>0</liquid>
+  <ios_url>cian://zhiloy-kompleks-lica-moskva-5430/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-lica-moskva-5430/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="5892">
+  <url>https://www.cian.ru/zhiloy-kompleks-utesov-moskva-5892/</url>
+  <price>40255000</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/5892.15f093474399ac627f90613cd6e103df.718041759.jpg</picture>
+  <typePrefix>Москва, Карамышевская набережная, 2А</typePrefix>
+  <vendor>Флэт и Ко</vendor>
+  <model>улица Народного ополчения</model>
+  <name>ЖК «Утесов»</name>
+  <description>РасположениеЖилой комплекс «Утесов» - дом бизнес-класса, расположенный в одном из красивейших мест С...</description>
+  <latitude>55.769135</latitude>
+  <longitude>37.494521</longitude>
+  <cpl>1</cpl>
+  <msk_district>СЗАО</msk_district>
+  <newbuilding_class>премиум-класс</newbuilding_class>
+  <liquid>0</liquid>
+  <ios_url>cian://zhiloy-kompleks-utesov-moskva-5892/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-utesov-moskva-5892/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="6786">
+  <url>https://www.cian.ru/zhiloy-kompleks-geometriya-dushinskaya-16-moskva-6786/</url>
+  <price>39170000</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/6786.d652954df601796b0c6afab417cd77c6.1062631186.jpg</picture>
+  <typePrefix>Москва, Юго-Восточный административный округ, район Лефортово, 8-й микрорайон, Душинская улица, 16</typePrefix>
+  <vendor>Желдорипотека</vendor>
+  <model>Москва-Товарная</model>
+  <name>ЖК «Геометрия (Душинская 16)»</name>
+  <description>Жилой комплекс бизнес-класса «Геометрия (Душинская 16)» возведен застройщиком «Флэт и Ко»» в ЮВАО Мо...</description>
+  <latitude>55.745635</latitude>
+  <longitude>37.704709</longitude>
+  <cpl>1</cpl>
+  <msk_district>ЮВАО</msk_district>
+  <newbuilding_class>бизнес-класс</newbuilding_class>
+  <liquid>0</liquid>
+  <ios_url>cian://zhiloy-kompleks-geometriya-dushinskaya-16-moskva-6786/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-geometriya-dushinskaya-16-moskva-6786/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="6787">
+  <url>https://www.cian.ru/zhiloy-kompleks-ulica-kominterna-10-moskva-6787/</url>
+  <price>29859999</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/6787.176e9f116c5d98491b13d819210ac25d.665358182.jpg</picture>
+  <typePrefix>Москва, улица Коминтерна, 10к1</typePrefix>
+  <vendor>Желдорипотека</vendor>
+  <model>Бабушкинская</model>
+  <name>ЖК «Улица Коминтерна, 10»</name>
+  <description>Жилой комплекс бизнес-класса «Улица Коминтерна, 10» возведен застройщиком «Флэт и Ко»» на северо-вос...</description>
+  <latitude>55.8615124192428</latitude>
+  <longitude>37.6782345008344</longitude>
+  <cpl>1</cpl>
+  <msk_district>СВАО</msk_district>
+  <newbuilding_class>бизнес-класс</newbuilding_class>
+  <liquid>1</liquid>
+  <ios_url>cian://zhiloy-kompleks-ulica-kominterna-10-moskva-6787/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-ulica-kominterna-10-moskva-6787/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="7482">
+  <url>https://www.cian.ru/zhiloy-kompleks-apartkompleks-legendarnyy-kvartal-moskva-7482/</url>
+  <price>7037210</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/7482.12650fcc57b860ac1204c7d053073d50.1281607359.jpg</picture>
+  <typePrefix>Москва, Северо-Восточный административный округ, Останкинский район, Берёзовая аллея</typePrefix>
+  <vendor>Д-Инвест</vendor>
+  <model>Ботанический сад</model>
+  <name>ЖК «Апарт-комплекс Легендарный квартал»</name>
+  <description>«Легендарный квартал» расположен у северной границы Ботанического сада, всего в 7 минутах от метро. ...</description>
+  <latitude>55.8491137492837</latitude>
+  <longitude>37.6249451063432</longitude>
+  <cpl>1</cpl>
+  <msk_district>СВАО</msk_district>
+  <newbuilding_class>бизнес-класс</newbuilding_class>
+  <liquid>1</liquid>
+  <ios_url>cian://zhiloy-kompleks-apartkompleks-legendarnyy-kvartal-moskva-7482/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-apartkompleks-legendarnyy-kvartal-moskva-7482/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="7789">
+  <url>https://www.cian.ru/zhiloy-kompleks-turandot-residences-moskva-7789/</url>
+  <price>78776471</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/7789.5a26afd69f80765e08f6cafe9904c5cb.967856163.jpg</picture>
+  <typePrefix>Москва, улица Арбат, 24</typePrefix>
+  <vendor>Valartis Group</vendor>
+  <model>Арбатская</model>
+  <name>ЖК «Turandot Residences (Турандот Резиденсес)»</name>
+  <description>Уникальный клубный дом Turandot Residences расположен на Старом Арбате, в центре культурной жизни ст...</description>
+  <latitude>55.750069</latitude>
+  <longitude>37.592285</longitude>
+  <cpl>1</cpl>
+  <msk_district>ЦАО</msk_district>
+  <newbuilding_class>премиум-класс</newbuilding_class>
+  <liquid>0</liquid>
+  <ios_url>cian://zhiloy-kompleks-turandot-residences-moskva-7789/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-turandot-residences-moskva-7789/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="7926">
+  <url>https://www.cian.ru/zhiloy-kompleks-riverdale-apartments-moskva-7926/</url>
+  <price>38000000</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/7926.b9f82ab1ce77db1106481ff9f16fd872.234569350.jpg</picture>
+  <typePrefix>Москва, 2-й Павелецкий проезд, 5с1</typePrefix>
+  <vendor>Glincom</vendor>
+  <model>Марксистская</model>
+  <name>ЖК «RIVERDALE APARTMENTS (Ривердейл Апартаментс)»</name>
+  <description>«Ривердейл» – это элегантный комплекс лофт-апартаментов с прекрасными видами на Москву, расположенны...</description>
+  <latitude>55.71271</latitude>
+  <longitude>37.644477</longitude>
+  <cpl>1</cpl>
+  <msk_district>ЮАО</msk_district>
+  <newbuilding_class>бизнес-класс</newbuilding_class>
+  <liquid>0</liquid>
+  <ios_url>cian://zhiloy-kompleks-riverdale-apartments-moskva-7926/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-riverdale-apartments-moskva-7926/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="8753">
+  <url>https://www.cian.ru/zhiloy-kompleks-loftkvartal-studio-12-moskva-8753/</url>
+  <price>89249896</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/8753.5a2ed7b55a1db63a9db4a0666ce44f19.1205722851.jpg</picture>
+  <typePrefix>Москва, 12-й проезд Марьиной Рощи</typePrefix>
+  <vendor>KR Properties</vendor>
+  <model>Марьина роща</model>
+  <name>ЖК «Лофт-квартал Studio #12 (Студио #12)»</name>
+  <description>Комплекс апартаментов «Лофт-квартал Studio #12» расположен на севере Москвы, в пятнадцати минутах хо...</description>
+  <latitude>55.8050531488494</latitude>
+  <longitude>37.6188416283107</longitude>
+  <cpl>1</cpl>
+  <msk_district>СВАО</msk_district>
+  <newbuilding_class>бизнес-класс</newbuilding_class>
+  <liquid>0</liquid>
+  <ios_url>cian://zhiloy-kompleks-loftkvartal-studio-12-moskva-8753/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-loftkvartal-studio-12-moskva-8753/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="40330">
+  <url>https://www.cian.ru/zhiloy-kompleks-schaste-na-semenovskoy-moskva-40330/</url>
+  <price>30231968</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/40330.b83fc236064a5d3f90023c7ce994a45a.1105442790.jpg</picture>
+  <typePrefix>Москва, Измайловское шоссе, 20</typePrefix>
+  <vendor>Группа Эталон</vendor>
+  <model>Семеновская</model>
+  <name>ЖК «Счастье на Семеновской»</name>
+  <description>«Счастье на Семеновской» — это современный малоэтажный дом бизнес-класса, по количеству квартир и ка...</description>
+  <latitude>55.778856</latitude>
+  <longitude>37.724166</longitude>
+  <cpl>1</cpl>
+  <msk_district>ВАО</msk_district>
+  <newbuilding_class>бизнес-класс</newbuilding_class>
+  <liquid>0</liquid>
+  <ios_url>cian://zhiloy-kompleks-schaste-na-semenovskoy-moskva-40330/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-schaste-na-semenovskoy-moskva-40330/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="43299">
+  <url>https://www.cian.ru/zhiloy-kompleks-glorax-aura-belorusskaya-moskva-43299/</url>
+  <price>29519999</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/43299.a139c7ccc84de61143c75112fc2d3e7f.1215139974.jpg</picture>
+  <typePrefix>Москва, 1-я улица Ямского Поля</typePrefix>
+  <vendor>GloraX</vendor>
+  <model>Белорусская</model>
+  <name>ЖК «Glorax Aura Белорусская»</name>
+  <description>Glorax Aura Белорусская — представительский проект премиум-класса в районе Ленинградского проспекта ...</description>
+  <latitude>55.7831918968545</latitude>
+  <longitude>37.5852524907371</longitude>
+  <cpl>1</cpl>
+  <msk_district>САО</msk_district>
+  <newbuilding_class>премиум-класс</newbuilding_class>
+  <liquid>0</liquid>
+  <ios_url>cian://zhiloy-kompleks-glorax-aura-belorusskaya-moskva-43299/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-glorax-aura-belorusskaya-moskva-43299/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="45317">
+  <url>https://www.cian.ru/zhiloy-kompleks-serebryanyy-park-moskva-45317/</url>
+  <price>21505882</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/45317.8d6c2c89110a8a242d36b7ce9d0357c3.1281879897.jpg</picture>
+  <typePrefix>Москва, улица Паршина</typePrefix>
+  <vendor>ГК Инград</vendor>
+  <model>Октябрьское поле</model>
+  <name>ЖК «Серебряный парк»</name>
+  <description>Проект расположен в 300 м от Серебряного бора в районе Хорошёво-Мневники. В 3 минутах пешком от квар...</description>
+  <latitude>55.7903031343672</latitude>
+  <longitude>37.4575002511393</longitude>
+  <cpl>1</cpl>
+  <msk_district>СЗАО</msk_district>
+  <newbuilding_class>бизнес-класс</newbuilding_class>
+  <liquid>1</liquid>
+  <ios_url>cian://zhiloy-kompleks-serebryanyy-park-moskva-45317/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-serebryanyy-park-moskva-45317/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="45340">
+  <url>https://www.cian.ru/zhiloy-kompleks-malaya-bronnaya-15-moskva-45340/</url>
+  <price>542800000</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/45340.f76cfa71c78bddadc78f3e45d0601816.1205390833.jpg</picture>
+  <typePrefix>Москва, Малая Бронная улица, 15Б</typePrefix>
+  <vendor>ЛидЭстейт</vendor>
+  <model>Пушкинская</model>
+  <name>ЖК «Малая Бронная 15»</name>
+  <description>Клубный дом «Малая Бронная 15» располагается в ареале вдохновляющей и творческой атмосферы Москвы в ...</description>
+  <latitude>55.760717</latitude>
+  <longitude>37.596174</longitude>
+  <cpl>1</cpl>
+  <msk_district>ЦАО</msk_district>
+  <newbuilding_class>премиум-класс</newbuilding_class>
+  <liquid>1</liquid>
+  <ios_url>cian://zhiloy-kompleks-malaya-bronnaya-15-moskva-45340/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-malaya-bronnaya-15-moskva-45340/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="50659">
+  <url>https://www.cian.ru/zhiloy-kompleks-white-khamovniki-moskva-50659/</url>
+  <price>285975000</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/50659.2ae5dca10a1ccc88fa90e535a6dfc02f.588524375.jpg</picture>
+  <typePrefix>Москва, Олсуфьевский переулок</typePrefix>
+  <vendor>Capital Group</vendor>
+  <model>Фрунзенская</model>
+  <name>ЖК «White Khamovniki (Вайт Хамовники)»</name>
+  <description>Дом – произведение искусстваКлубный проект White Khamovniki от Capital Group– дом, минималистичная ф...</description>
+  <latitude>55.7328297790791</latitude>
+  <longitude>37.5795293558196</longitude>
+  <cpl>1</cpl>
+  <msk_district>ЦАО</msk_district>
+  <newbuilding_class>бизнес-класс</newbuilding_class>
+  <liquid>0</liquid>
+  <ios_url>cian://zhiloy-kompleks-white-khamovniki-moskva-50659/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-white-khamovniki-moskva-50659/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="51507">
+  <url>https://www.cian.ru/zhiloy-kompleks-dom-s-atlantami-moskva-51507/</url>
+  <price>150000000</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/51507.602a259ae61bb05fb5c3cfbeff01c66a.631000068.jpg</picture>
+  <typePrefix>Москва, улица Солянка, 7</typePrefix>
+  <vendor>ВМС Девелопмент</vendor>
+  <model>Китай-город</model>
+  <name>ЖК «Дом с Атлантами»</name>
+  <description>«Дом с Атлантами» представляет собой проект реставрации объекта культурного наследия. Бывший доходны...</description>
+  <latitude>55.752409</latitude>
+  <longitude>37.64039</longitude>
+  <cpl>1</cpl>
+  <msk_district>ЦАО</msk_district>
+  <newbuilding_class>премиум-класс</newbuilding_class>
+  <liquid>1</liquid>
+  <ios_url>cian://zhiloy-kompleks-dom-s-atlantami-moskva-51507/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-dom-s-atlantami-moskva-51507/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="54522">
+  <url>https://www.cian.ru/zhiloy-kompleks-nagatino-iland-moskva-54522/</url>
+  <price>19103058</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/54522.cf706c006786b60054e5a2c34cddeb78.1123219687.jpg</picture>
+  <typePrefix>Москва, Автозаводская улица</typePrefix>
+  <vendor>Группа Эталон</vendor>
+  <model>Технопарк</model>
+  <name>ЖК «Nagatino i-Land (Нагатино Ай-Ленд)»</name>
+  <description>Nagatino i-Land – это новый жилой остров бизнес-класса рядом с центром Москвы. Концепция проекта пре...</description>
+  <latitude>55.6881322148347</latitude>
+  <longitude>37.6547584471127</longitude>
+  <cpl>1</cpl>
+  <msk_district>ЮАО</msk_district>
+  <newbuilding_class>бизнес-класс</newbuilding_class>
+  <liquid>0</liquid>
+  <ios_url>cian://zhiloy-kompleks-nagatino-iland-moskva-54522/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-nagatino-iland-moskva-54522/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="90586">
+  <url>https://www.cian.ru/zhiloy-kompleks-artisan-moskva-90586/</url>
+  <price>83793103</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/90586.807ba270408841bec51b8e66b5c88fd1.967859117.jpg</picture>
+  <typePrefix>Москва, улица Арбат, 39</typePrefix>
+  <vendor>Valartis Group</vendor>
+  <model>Смоленская</model>
+  <name>ЖК «Artisan (Артисан)»</name>
+  <description>Клубный дом класса De luxe Artisan расположен в самом сердце Москвы, в пешеходной зоне Старого Арбат...</description>
+  <latitude>55.748740537831</latitude>
+  <longitude>37.5896149153429</longitude>
+  <cpl>1</cpl>
+  <msk_district>ЦАО</msk_district>
+  <newbuilding_class>премиум-класс</newbuilding_class>
+  <liquid>0</liquid>
+  <ios_url>cian://zhiloy-kompleks-artisan-moskva-90586/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-artisan-moskva-90586/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="246534">
+  <url>https://www.cian.ru/zhiloy-kompleks-parkovaya-apartamenty-moskva-246534/</url>
+  <price>10135200</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/246534.6cfb30c92110297a5c7b073c26ec6d37.692189808.jpg</picture>
+  <typePrefix>Москва, 12-я Парковая улица, 5</typePrefix>
+  <vendor>Негреско</vendor>
+  <model>Первомайская</model>
+  <name>ЖК «Парковая апартаменты»</name>
+  <description>Ремонт помещений по адресу г. Москва, 12-я Парковая улица</description>
+  <latitude>55.789794674021</latitude>
+  <longitude>37.8100595423278</longitude>
+  <cpl>1</cpl>
+  <msk_district>ВАО</msk_district>
+  <newbuilding_class>бизнес-класс</newbuilding_class>
+  <liquid>0</liquid>
+  <ios_url>cian://zhiloy-kompleks-parkovaya-apartamenty-moskva-246534/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-parkovaya-apartamenty-moskva-246534/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="884420">
+  <url>https://www.cian.ru/zhiloy-kompleks-carev-sad-moskva-884420/</url>
+  <price>100109337</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/884420.8be837b93f5af07abd816820e80b7f70.836436680.jpg</picture>
+  <typePrefix>Москва, Софийская набережная, 34с2</typePrefix>
+  <vendor>Сбербанк Капитал</vendor>
+  <model>Новокузнецкая</model>
+  <name>ЖК «Царев сад»</name>
+  <description>Коллекция эксклюзивных апартаментов «Царев сад» расположена в самом сердце Москвы – на Золотом остро...</description>
+  <latitude>55.7472516938187</latitude>
+  <longitude>37.6234379775532</longitude>
+  <cpl>1</cpl>
+  <msk_district>ЦАО</msk_district>
+  <newbuilding_class>премиум-класс</newbuilding_class>
+  <liquid>1</liquid>
+  <ios_url>cian://zhiloy-kompleks-carev-sad-moskva-884420/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-carev-sad-moskva-884420/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="1641578">
+  <url>https://www.cian.ru/zhiloy-kompleks-bereg-stolicy-moskva-1641578/</url>
+  <price>185380000</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/1641578.ea90150e527c8e877a3cb698182fe7be.916943951.jpg</picture>
+  <typePrefix>Москва, Северо-Западный административный округ, район Хорошёво-Мнёвники, Таманская улица</typePrefix>
+  <vendor>Виртус-Р</vendor>
+  <model>Октябрьское поле</model>
+  <name>ЖК «Берег столицы»</name>
+  <description>«Берег Столицы» — это городские таунхаусы, просторные виллы и роскошные резиденции на первой линии у...</description>
+  <latitude>55.778021</latitude>
+  <longitude>37.443335</longitude>
+  <cpl>1</cpl>
+  <msk_district>СЗАО</msk_district>
+  <newbuilding_class>премиум-класс</newbuilding_class>
+  <liquid>0</liquid>
+  <ios_url>cian://zhiloy-kompleks-bereg-stolicy-moskva-1641578/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-bereg-stolicy-moskva-1641578/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+<offer id="1895918">
+  <url>https://www.cian.ru/zhiloy-kompleks-eniteo-moskva-1895918/</url>
+  <price>19127400</price>
+  <currencyId>RUR</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://www.cian.ru/feed/images/1895918.3e403990fa814a0673b7358c30ef23e9.1125135452.jpg</picture>
+  <typePrefix>Москва, Юго-Западный административный округ, район Котловка, Севастопольский проспект</typePrefix>
+  <vendor>TEKTA GROUP</vendor>
+  <model>Крымская</model>
+  <name>ЖК «Eniteo (Энитео)»</name>
+  <description>Новый проект компании TEKTA GROUP появится неподалеку от усадьбы Черемушки-Знаменское. Архитектурная...</description>
+  <latitude>55.678311</latitude>
+  <longitude>37.593327</longitude>
+  <cpl>1</cpl>
+  <msk_district>ЮЗАО</msk_district>
+  <newbuilding_class>бизнес-класс</newbuilding_class>
+  <liquid>0</liquid>
+  <ios_url>cian://zhiloy-kompleks-eniteo-moskva-1895918/</ios_url>
+  <android_url>cianurl://www.cian.ru/zhiloy-kompleks-eniteo-moskva-1895918/</android_url>
+  <ios_app_store_id>911804296</ios_app_store_id>
+  <bundle_id>ru.cian.main</bundle_id>
+</offer>
+</offers>
+</shop>
+</torg_price>
