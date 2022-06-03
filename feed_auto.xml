@@ -8,7 +8,7 @@
     <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
     <link>https://www.example.com/car-1234> </link>
     <brand>Volvo</brand>
-    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
     <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
     <model>XC-90</model>
     <year>2015</year>
@@ -40,7 +40,7 @@
     <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
     <link>https://www.example.com/car-1234> </link>
     <brand>Lada</brand>
-    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
     <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
     <model>Granta</model>
     <year>2015</year>
@@ -72,7 +72,7 @@
     <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
     <link>https://www.example.com/car-1234> </link>
     <brand>Lada</brand>
-    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
     <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
     <model>Vesta</model>
     <year>2015</year>
@@ -104,7 +104,7 @@
     <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
     <link>https://www.example.com/car-1234> </link>
     <brand>Lada 2106</brand>
-    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
     <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
     <model>XC-90</model>
     <year>2015</year>
@@ -136,7 +136,7 @@
     <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
     <link>https://www.example.com/car-1234> </link>
     <brand>Запорожец</brand>
-    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
     <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
     <model></model>
     <year>1990</year>
@@ -168,7 +168,7 @@
     <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
     <link>https://www.example.com/car-1234> </link>
     <brand>Москвич</brand>
-    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
     <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
     <model>412</model>
     <year>1999</year>
@@ -231,7 +231,7 @@
     <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
     
     <brand>ГАЗ</brand>
-    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
     <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
     <model>53</model>
     <year>1984</year>
@@ -261,7 +261,7 @@
     <id>3456561</id>  
     <link>httpss://www.example.com/car-1234> </link>
     <brand>Porsche</brand>
-    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <image_link>https://www.example.com/1234/image_1.jpg </image_link>
     <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
     <model>911</model>
     <year>2015</year>
@@ -293,7 +293,7 @@
     <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
     <url>https://www.example.com/car-1234> </url>
     <brand></brand>
-    <image_link>ttps://www.example.com/1234/image_1.jpg <image_link>
+    <image_link>ttps://www.example.com/1234/image_1.jpg </image_link>
     <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
     <model></model>
     <year></year>
