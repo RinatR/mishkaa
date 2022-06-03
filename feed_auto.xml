@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+  <title>Sample Vehicles Feed</title>
+  <link rel="self" href="https://www.example.com/dealers/cars/1234/?r=vddn" />
+  <item>
+    <id>3456553</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Volvo</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>XC-90</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2 000 000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+</item>
+  <item>
+    <id>3456554</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Lada</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>Granta</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2 000 000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+</item>
+  <item>
+    <id>3456555</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Lada</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>Vesta</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2 000 000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+</item>
+  <item>
+    <id>3456556</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Lada 2106</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>XC-90</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2 000 000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+</item>
+  <item>
+    <id>3456557</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Запорожец</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model></model>
+    <year>1990</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2 000 000 000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+</item>
+  <item>
+    <id>3456558</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>Москвич</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>412</model>
+    <year>1999</year>
+    <mileage>
+      <value>1561700</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+</item>
+  <item>
+    <id>3456559</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <link>https://www.example.com/car-1234> </link>
+    <brand>ЗиЛ</brand>    
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>130</model>
+    <year>2000</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+</item>
+  <item>
+    <id>3456560</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    
+    <brand>ГАЗ</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>53</model>
+    <year>1984</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>1000000 </price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>Green</exterior_color>
+    <state_of_vehicle>New</state_of_vehicle>
+</item>
+  <item>
+    <id>3456561</id>  
+    <link>httpss://www.example.com/car-1234> </link>
+    <brand>Porsche</brand>
+    <image_link>https://www.example.com/1234/image_1.jpg <image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model>911</model>
+    <year>2015</year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>20 000 000 RUB</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>Black</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+</item>
+  <item>
+    <id>3456562</id>
+    <title>$299 per month for the EndoHatch GE</title>
+    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Bags, Air Conditioning, Alloy Wheels, Anti Lock Brakes, Bluetooth Preparation (Phone), CD Player, </description>
+    <url>https://www.example.com/car-1234> </url>
+    <brand></brand>
+    <image_link>ttps://www.example.com/1234/image_1.jpg <image_link>
+    <additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>   
+    <model></model>
+    <year></year>
+    <mileage>
+      <value>15617</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>1A2BCDEF3GH456789</vin>
+    <body_style>OTHER</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>2 000 000 AMD</price>
+    <location>
+      <address>3-я улица Строителей, 55</address>
+      <locality>Санкт-Петербург</locality>
+      <region>Ленинградская область</region>
+      <country>Россия</country>  
+      <metro>Удельная
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+    </metro>      
+    </location>   
+    <exterior_color>White</exterior_color>
+    <state_of_vehicle>Used</state_of_vehicle>
+</item>
+</channel>
