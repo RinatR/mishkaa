@@ -16,7 +16,7 @@
 <offers>
 <offer id="14166400002" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
-        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&utm_campaign=test&utm_content=100500&utm_medium=cpc&utm_source=mytarget</url>
+        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&amp;utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
         <oldprice>3200</oldprice>
         <currencyId>RUB</currencyId>
@@ -35,11 +35,11 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
-	<ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+	<ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 	  <offer id="14166400003" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
-        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D1416640000?&utm_campaign=test&utm_content=100500&utm_medium=cpc&utm_source=mytarget</url>
+        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D1416640000?&amp;utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
         <oldprice>3200</oldprice>
         <currencyId>RUB</currencyId>
@@ -58,11 +58,11 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
- 	<ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+ 	<ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 	  <offer id="14166400004" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
-        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002?utm_campaign=test&utm_content=100500&utm_medium=cpc&utm_source=mytarget</url>
+        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002?utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
         <oldprice>3200</oldprice>
         <currencyId>RUB</currencyId>
@@ -81,11 +81,11 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
-		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 	  <offer id="14166400005" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
-        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&utm_campaign=test&utm_content=100500&utm_medium=cpc&utm_source=mytarget</url>
+        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&amp;utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
         <oldprice>3200</oldprice>
         <currencyId>RUB</currencyId>
@@ -104,11 +104,11 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
-		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 	  <offer id="14166400006" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
-        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&utm_campaign=test&utm_content=100500&utm_medium=cpc&utm_source=mytarget</url>
+        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&amp;utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
         <oldprice>3200</oldprice>
         <currencyId>RUB</currencyId>
@@ -127,11 +127,11 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
-		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 	  <offer id="14166400007" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
-        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&utm_campaign=test&utm_content=100500&utm_medium=cpc&utm_source=mytarget</url>
+        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&amp;utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
         <oldprice>3200</oldprice>
         <currencyId>RUB</currencyId>
@@ -150,11 +150,11 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
-		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 	  <offer id="14166400008" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
-        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&utm_campaign=test&utm_content=100500&utm_medium=cpc&utm_source=mytarget</url>
+        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&amp;utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
         <oldprice>3200</oldprice>
         <currencyId>RUB</currencyId>
@@ -173,11 +173,11 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
-		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 	  <offer id="14166400009" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
-        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&utm_campaign=test&utm_content=100500&utm_medium=cpc&utm_source=mytarget</url>
+        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&amp;utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
         <oldprice>3200</oldprice>
         <currencyId>RUB</currencyId>
@@ -196,11 +196,11 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
-		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 	  <offer id="1416640000210" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
-        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&utm_campaign=test&utm_content=100500&utm_medium=cpc&utm_source=mytarget</url>
+        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&amp;utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
         <oldprice>3200</oldprice>
         <currencyId>RUB</currencyId>
@@ -219,11 +219,11 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
-		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 	  <offer id="141664000011" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
-        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&utm_campaign=test&utm_content=100500&utm_medium=cpc&utm_source=mytarget</url>
+        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&amp;utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
         <oldprice>3200</oldprice>
         <currencyId>RUB</currencyId>
@@ -242,11 +242,11 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
-		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 	  <offer id="1416640000212" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
-        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&utm_campaign=test&utm_content=100500&utm_medium=cpc&utm_source=mytarget</url>
+        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&amp;utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
         <oldprice>3200</oldprice>
         <currencyId>RUB</currencyId>
@@ -265,11 +265,11 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
-		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 	  <offer id="1416640000213" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
-        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&utm_campaign=test&utm_content=100500&utm_medium=cpc&utm_source=mytarget</url>
+        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&amp;utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
         <oldprice>3200</oldprice>
         <currencyId>RUB</currencyId>
@@ -288,11 +288,11 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
-		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 	  <offer id="1416640000214" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
-        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&utm_campaign=test&utm_content=100500&utm_medium=cpc&utm_source=mytarget</url>
+        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&amp;utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
         <oldprice>3200</oldprice>
         <currencyId>RUB</currencyId>
@@ -311,11 +311,11 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
-		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 	  <offer id="1416640000215" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
-        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&utm_campaign=test&utm_content=100500&utm_medium=cpc&utm_source=mytarget</url>
+        <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&amp;utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
         <oldprice>3200</oldprice>
         <currencyId>RUB</currencyId>
@@ -334,7 +334,7 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
-		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 </offers>
   </shop>
