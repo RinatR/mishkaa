@@ -28,7 +28,7 @@
     </item>
 	<item>
         <id>02</id>
-        <title>ЖК Семейный</name>
+        <title>ЖК Семейный</title>
         <brand>АСЗ</brand>
         <availability>for_sale</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
@@ -48,9 +48,8 @@
     </item>
 	<item>
         <id></id>
-        <title>ЖК Парк Арена</name>
-        <brand>БИС</brand>
-        
+        <title>ЖК Парк Арена</title>
+        <brand>БИС</brand>        
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
         <location>
             <country>Россия</country>
@@ -68,7 +67,7 @@
     </item>
 	<item>
         <id>03</id>
-        <title>ЖК Экопарк Дубрава</name>
+        <title>ЖК Экопарк Дубрава</title>
         <brand>СМУ-88</brand>
         <availability>for_sale</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
@@ -88,7 +87,7 @@
     </item>
 	<item>
         <id>04</id>
-        <title>ЖК Безымянный</name>        
+        <title>ЖК Безымянный</title>        
         <availability>for_rent</availability>        
         <location>
             <country>Россия</country>
