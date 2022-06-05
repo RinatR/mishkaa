@@ -18,8 +18,109 @@
         <price>5000.00 RUB</price>
         <min_price>4000.00 RUB</min_price>
         <sale_price>4000.00 RUB USD</sale_price>       
-        <item_group_id>SKU-123123</item_group_id>
-        
+        <item_group_id>SKU-123123</item_group_id>        
+    </item>
+      <link>https://www.mydealsshop.foo</link>        
+    <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>        
+    </item> 
+      <link>https://www.mydealsshop.foo</link>        
+    <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>        
+    </item> 
+      <link>https://www.mydealsshop.foo</link>        
+    <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>        
+    </item> 
+      <link>https://www.mydealsshop.foo</link>        
+    <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>        
+    </item> 
+      <link>https://www.mydealsshop.foo</link>        
+    <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>        
+    </item> 
+      <link>https://www.mydealsshop.foo</link>        
+    <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>        
     </item> 
 </channel>
 </rss>
