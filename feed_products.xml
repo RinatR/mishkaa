@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>My Deal Shop Products</title>
+    <description>Product Feed for Facebook</description>
+    <link>https://www.mydealsshop.foo</link>        
+    <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>
+        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+    </item> 
+	 <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>
+        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+    </item>
+	 <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>
+        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+    </item>
+	 <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>
+        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+    </item>
+	 <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>
+        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+    </item>
+	 <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>
+        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+    </item>
+	 <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>
+        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+    </item>
+	 <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>
+        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+    </item>
+	 <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>
+        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+    </item>
+	 <item>                   
+        <id>SKU-123123-RED</id>
+        <title>WidgetThing</title>           
+        <description>This product is the product you need to do the thing</description>
+        <link>https://www.mydealsshop.foo/products/widgetthing</link>
+        <image_link>https://cdn.mycdn.foo/files/123123123.jpg</image_link>             
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>           
+        <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+        <brand>AcmeCo</brand>
+        <condition>New</condition>       
+        <availability>in stock</availability>           
+        <price>5000.00 RUB</price>
+        <min_price>4000.00 RUB</min_price>
+        <sale_price>4000.00 RUB USD</sale_price>       
+        <item_group_id>SKU-123123</item_group_id>
+        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+    </item>
+</channel>
+</rss>
