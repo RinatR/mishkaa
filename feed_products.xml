@@ -19,7 +19,7 @@
         <min_price>4000.00 RUB</min_price>
         <sale_price>4000.00 RUB USD</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
-        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+         
     </item> 
 	 <item>                   
         <id>SKU-123123-RED</id>
@@ -36,7 +36,7 @@
         <min_price>4000.00 RUB</min_price>
         <sale_price>4000.00 RUB USD</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
-        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+         
     </item>
 	 <item>                   
         <id>SKU-123123-RED</id>
@@ -53,7 +53,7 @@
         <min_price>4000.00 RUB</min_price>
         <sale_price>4000.00 RUB USD</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
-        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+          
     </item>
 	 <item>                   
         <id>SKU-123123-RED</id>
@@ -70,7 +70,7 @@
         <min_price>4000.00 RUB</min_price>
         <sale_price>4000.00 RUB USD</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
-        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+         
     </item>
 	 <item>                   
         <id>SKU-123123-RED</id>
@@ -87,7 +87,7 @@
         <min_price>4000.00 RUB</min_price>
         <sale_price>4000.00 RUB USD</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
-        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+        
     </item>
 	 <item>                   
         <id>SKU-123123-RED</id>
@@ -104,7 +104,7 @@
         <min_price>4000.00 RUB</min_price>
         <sale_price>4000.00 RUB USD</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
-        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+        
     </item>
 	 <item>                   
         <id>SKU-123123-RED</id>
@@ -121,7 +121,7 @@
         <min_price>4000.00 RUB</min_price>
         <sale_price>4000.00 RUB USD</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
-        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+        
     </item>
 	 <item>                   
         <id>SKU-123123-RED</id>
@@ -138,7 +138,7 @@
         <min_price>4000.00 RUB</min_price>
         <sale_price>4000.00 RUB USD</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
-        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+          
     </item>
 	 <item>                   
         <id>SKU-123123-RED</id>
@@ -155,7 +155,7 @@
         <min_price>4000.00 RUB</min_price>
         <sale_price>4000.00 RUB USD</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
-        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+          
     </item>
 	 <item>                   
         <id>SKU-123123-RED</id>
@@ -172,7 +172,7 @@
         <min_price>4000.00 RUB</min_price>
         <sale_price>4000.00 RUB USD</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
-        <google_product_category>Toys & Games > Toys > Executive Toys > Magnet Toys</google_product_category>  
+        
     </item>
 </channel>
 </rss>
