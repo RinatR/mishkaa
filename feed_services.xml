@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <title>example.com Feed</title>
+    <link rel="self" href="http://www.example.com"/>
+    <item>
+        <id>12345678</id>
+        <title>Борисова Наталья Вячеславовна</title>
+        <description>Стаж 40 лет  Врач высшей категории  Доктор медицинских наук</description>
+        <brand>Клиника Семейной Медицины </brand>
+        <location>
+            <address>Рихарда Зорге 66в</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>
+            <metro>Проспект Победы
+                     
+                <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>
+        </location>
+        <price>1000 RUB </price>
+        <sale_price>800 RUB</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Кардиологи </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+	<item>
+        <id>12345678</id>
+        <title>Катамаранов Игорь Натальевич</title>
+        <description>Стаж 50 лет  Врач высшей категории  Доктор медицинских наук</description>
+        <brand>Клиника Народной Медицины </brand>
+        <location>
+            <address>Большая Красная 6в</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>            
+        </location>
+        <price>2000 RUB </price>
+        <sale_price>1800 RUB</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Терапевты </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+	<item>
+        <id>12345679</id>
+        <title>Крузенштерн Иван Федорович</title>
+        <description>Стаж 10 лет  Врач высшей категории  Кандидат медицинских наук</description>        
+        <location>
+            <address>Университетская 16</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>
+            <metro>Авиастроительная
+                     
+                <time-on-foot>10</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>
+        </location>
+        <price>500</price>
+        <sale_price>500 RUB</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Окулисты </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+	<item>
+        <id>12345676</id>
+        <title>Берия Лаврентий Павлович</title>        
+        <brand>Поликлиника №25</brand>
+        <location>
+            <address>Юлиуса Фучика 62</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>            
+        </location>
+        <price>1000 руб. </price>
+        <sale_price>800 руб.</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Хирурги </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+	<item>
+        <id>12345675</id>
+        <title>Оганесян Анаит Валериковная</title>
+        <description>Стаж 40 лет  Врач высшей категории  Доктор медицинских наук</description>
+        <brand>Поликлиника №9 </brand>
+        <location>
+            <address>Козловская 6</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>
+            
+        </location>
+        <price>3000 RUB </price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Стоматологи </product_type>
+        <image_link>httpss://example.com/12345678-1.jpg</image_link>
+    </item>
+	<item>
+        <id>12345674</id>
+        <title>Борисова Наталья Вячеславовна</title>
+        <description></description>
+        <brand>Клиника Семейной Медицины </brand>
+        <location>
+            <address>Дубравная 66в</address>
+            <locality>Казань</locality>
+            <region>Татарстан</region>
+            <country>Россия</country>
+            <metro>Дубравная
+                     
+                <time-on-foot>20</time-on-foot>
+                <time-on-transport>5</time-on-transport>
+            </metro>
+        </location>
+        <price>1000 RUB </price>
+        <sale_price>800 RUB</sale_price>
+        <phone>+7 495 479 1234 </phone>
+        <rating>5</rating>
+        <worker_type>juridical</worker_type>
+        <product_type>Врачи>Кардиологи </product_type>
+        <image_link>http://example.com/12345678-1.jpg</image_link>
+    </item>
+</channel>
