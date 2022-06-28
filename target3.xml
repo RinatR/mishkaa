@@ -14,7 +14,7 @@
 <category id="8052" parentId="2">скидки до −40%</category>
 </categories>
 <offers>
-<offer id="14166400002" available="true" type="vendor.model" group_id="108173">
+<offer id="14166400002" available="false" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
         <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002&amp;utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
@@ -60,7 +60,7 @@
         <ios_app_store_id>1154436683</ios_app_store_id>
  	<ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
-	  <offer id="14166400004" available="true" type="vendor.model" group_id="108173">
+	  <offer id="14166400004" available="false" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
         <url>https://goldapple.ru/10004-14166400002-almost-powder-make-up-spf15#sku%3D14166400002?utm_campaign=test&amp;utm_content=100500&amp;utm_medium=cpc&amp;utm_source=mytarget</url>
         <price>1920</price>
