@@ -33,8 +33,8 @@
         <delivery>true</delivery>
         <ios_url>goldapple://https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</ios_url>
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
-		<android_tracking_url>https://app.appsflyer.com/goldapple.ru.goldapple.customers?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer%23sku%253D14244100006%3C/android_tracking_url>
-		<ios_tracking_url>https://app.appsflyer.com/ru.goldenapple?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer%23sku%253D14244100006%3C/ios_tracking_url>
+		<android_tracking_url>https://app.appsflyer.com/goldapple.ru.goldapple.customers?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer%23sku%253D14244100006</android_tracking_url>
+		<ios_tracking_url>https://app.appsflyer.com/ru.goldenapple?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer%23sku%253D14244100006</ios_tracking_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
       </offer>
