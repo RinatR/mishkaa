@@ -541,8 +541,8 @@
 <description>Возможен обмен на ниву от 2012г с моей доплатой</description>
 <ios_url>autoru://app/cars/used/sale/1103097477-dfe4e9c2/?adjust_tracker=mqn3my</ios_url>
 <android_url>autoru://app/cars/used/sale/1103097477-dfe4e9c2/?adjust_tracker=ruupl3</android_url>
-<ios_tracking_url>https://sb76.adj.st/?adjust_t=mqn3mydeep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1103097477-dfe4e9c2</ios_tracking_url>
-<android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3deep_link=autoru%3A%2F%2Fapp%2Fcars%2Fused%2Fsale%2F1103097477-dfe4e9c2</android_tracking_url>
+<ios_tracking_url>https://sb76.adj.st/?adjust_t=mqn3my&amp;deep_link=sale%2F1103097477-dfe4e9c2</ios_tracking_url>
+<android_tracking_url>https://sb76.adj.st/?adjust_t=ruupl3&amp;deep_link=sale%2F1103097477-dfe4e9c2</android_tracking_url>
 <bundle_id>ru.auto.ara</bundle_id>
 <ios_app_store_id>507760450</ios_app_store_id>
 </offer>
