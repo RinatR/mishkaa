@@ -105,7 +105,7 @@
         <android_url>ads://goldapple.ru//https://goldapple.ru/10032-14251100004-studio-finish-concealer#sku%3D14244100006</android_url>
         <bundle_id>goldapple.ru.goldapple.customers</bundle_id>
         <ios_app_store_id>1154436683</ios_app_store_id>
-		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
+		  <ios_tracking_url>https://app.appsflyer.com/id1154436683?pid=mail.ru_int&amp;af_dp=https%3A%2F%2Fgoldapple.ru%2F10032-14251100004-studio-finish-concealer/</ios_tracking_url>
       </offer>
 	  <offer id="14166400006" available="true" type="vendor.model" group_id="108173">
         <entity_id>30675</entity_id>
