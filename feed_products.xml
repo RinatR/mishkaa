@@ -5,7 +5,7 @@
     <description>Product Feed for Facebook</description>
     <link>https://www.mydealsshop.foo</link>        
     <item>                   
-        <id>SKU-123123-RED</id>
+        <id>1</id>
         <title>WidgetThing</title>           
         <description>This product is the product you need to do the thing</description>
         <link>https://www.mydealsshop.foo/products/widgetthing</link>
@@ -17,12 +17,12 @@
         <availability>in stock</availability>           
         <price>5000.00 RUB</price>
         <min_price>4000.00 RUB</min_price>
-        <sale_price>4000.00 RUB USD</sale_price>       
+        <sale_price>4000.00 RUB</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
          
     </item> 
 	 <item>                   
-        <id>SKU-123123-RED</id>
+        <id>2</id>
         <title>WidgetThing</title>           
         <description>This product is the product you need to do the thing</description>
         <link>https://www.mydealsshop.foo/products/widgetthing</link>
@@ -34,12 +34,12 @@
         <availability>in stock</availability>           
         <price>5000.00 RUB</price>
         <min_price>4000.00 RUB</min_price>
-        <sale_price>4000.00 RUB USD</sale_price>       
+        <sale_price>4000.00 RUB</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
          
     </item>
 	 <item>                   
-        <id>SKU-123123-RED</id>
+        <id>3</id>
         <title>WidgetThing</title>           
         <description>This product is the product you need to do the thing</description>
         <link>https://www.mydealsshop.foo/products/widgetthing</link>
@@ -51,12 +51,12 @@
         <availability>in stock</availability>           
         <price>5000.00 RUB</price>
         <min_price>4000.00 RUB</min_price>
-        <sale_price>4000.00 RUB USD</sale_price>       
+        <sale_price>4000.00 RUB</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
           
     </item>
 	 <item>                   
-        <id>SKU-123123-RED</id>
+        <id>4</id>
         <title>WidgetThing</title>           
         <description>This product is the product you need to do the thing</description>
         <link>https://www.mydealsshop.foo/products/widgetthing</link>
@@ -68,12 +68,12 @@
         <availability>in stock</availability>           
         <price>5000.00 RUB</price>
         <min_price>4000.00 RUB</min_price>
-        <sale_price>4000.00 RUB USD</sale_price>       
+        <sale_price>4000.00 RUB</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
          
     </item>
 	 <item>                   
-        <id>SKU-123123-RED</id>
+        <id>5</id>
         <title>WidgetThing</title>           
         <description>This product is the product you need to do the thing</description>
         <link>https://www.mydealsshop.foo/products/widgetthing</link>
@@ -85,12 +85,12 @@
         <availability>in stock</availability>           
         <price>5000.00 RUB</price>
         <min_price>4000.00 RUB</min_price>
-        <sale_price>4000.00 RUB USD</sale_price>       
+        <sale_price>4000.00 RUB</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
         
     </item>
 	 <item>                   
-        <id>SKU-123123-RED</id>
+        <id>6</id>
         <title>WidgetThing</title>           
         <description>This product is the product you need to do the thing</description>
         <link>https://www.mydealsshop.foo/products/widgetthing</link>
@@ -102,12 +102,12 @@
         <availability>in stock</availability>           
         <price>5000.00 RUB</price>
         <min_price>4000.00 RUB</min_price>
-        <sale_price>4000.00 RUB USD</sale_price>       
+        <sale_price>4000.00 RUB</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
         
     </item>
 	 <item>                   
-        <id>SKU-123123-RED</id>
+        <id>7</id>
         <title>WidgetThing</title>           
         <description>This product is the product you need to do the thing</description>
         <link>https://www.mydealsshop.foo/products/widgetthing</link>
@@ -119,12 +119,12 @@
         <availability>in stock</availability>           
         <price>5000.00 RUB</price>
         <min_price>4000.00 RUB</min_price>
-        <sale_price>4000.00 RUB USD</sale_price>       
+        <sale_price>4000.00 RUB</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
         
     </item>
 	 <item>                   
-        <id>SKU-123123-RED</id>
+        <id>8</id>
         <title>WidgetThing</title>           
         <description>This product is the product you need to do the thing</description>
         <link>https://www.mydealsshop.foo/products/widgetthing</link>
@@ -136,12 +136,12 @@
         <availability>in stock</availability>           
         <price>5000.00 RUB</price>
         <min_price>4000.00 RUB</min_price>
-        <sale_price>4000.00 RUB USD</sale_price>       
+        <sale_price>4000.00 RUB </sale_price>       
         <item_group_id>SKU-123123</item_group_id>
           
     </item>
 	 <item>                   
-        <id>SKU-123123-RED</id>
+        <id>9</id>
         <title>WidgetThing</title>           
         <description>This product is the product you need to do the thing</description>
         <link>https://www.mydealsshop.foo/products/widgetthing</link>
@@ -153,12 +153,12 @@
         <availability>in stock</availability>           
         <price>5000.00 RUB</price>
         <min_price>4000.00 RUB</min_price>
-        <sale_price>4000.00 RUB USD</sale_price>       
+        <sale_price>4000.00 RUB</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
           
     </item>
 	 <item>                   
-        <id>SKU-123123-RED</id>
+        <id>10</id>
         <title>WidgetThing</title>           
         <description>This product is the product you need to do the thing</description>
         <link>https://www.mydealsshop.foo/products/widgetthing</link>
@@ -170,7 +170,7 @@
         <availability>in stock</availability>           
         <price>5000.00 RUB</price>
         <min_price>4000.00 RUB</min_price>
-        <sale_price>4000.00 RUB USD</sale_price>       
+        <sale_price>4000.00 RUB</sale_price>       
         <item_group_id>SKU-123123</item_group_id>
         
     </item>
